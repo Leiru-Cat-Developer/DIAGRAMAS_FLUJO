@@ -1,0 +1,20 @@
+	¿QUÉ SON LAS FUNCIONES?
+
+Consiste en dividir en subprogramas un algoritmo, para
+hacerlo mucho más legible y sencillo.
+
+Una función es un subprograma que realiza una tarea
+especifica que puede o no recibir valores.
+
+	VENTAJAS
+
+	- Si utilizamos esta tecnica con un programa muy grande,
+	se vuelve mucho más sencillo.
+
+	- Los modulos o funciones se hacen independientes de la
+	funcion principal (main).
+
+	- Cuando hagamos el mantenimiento de algun programa, se
+	hace más sencillo dar mantenimiento a los subprogramas
+	en lugar de a todo el código.
+

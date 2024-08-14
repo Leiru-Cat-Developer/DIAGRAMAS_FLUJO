@@ -1,0 +1,85 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+2
+9
+NumeroUno
+1
+0
+9
+NumeroDos
+1
+0
+4
+1
+21
+'Ingrese dos números'
+5
+1
+20
+NumeroUno, NumeroDos
+12
+1
+11
+Operaciones
+1
+20
+NumeroUno, NumeroDos
+1
+2
+1
+11
+Operaciones
+1
+20
+NumeroUno, NumeroDos
+0
+6
+3
+4
+Suma
+19
+NumeroUno+NumeroDos
+5
+Resta
+19
+NumeroUno-NumeroDos
+14
+Multiplicacion
+19
+NumeroUno*NumeroDos
+6
+2
+8
+Division
+19
+NumeroUno/NumeroDos
+7
+Residuo
+23
+NumeroUno mod NumeroDos
+4
+1
+20
+'La suma es: ', Suma
+4
+1
+22
+'La resta es: ', Resta
+4
+1
+40
+'La multiplicación es: ', Multiplicacion
+4
+1
+28
+'La división es: ', Division
+4
+1
+26
+'El residuo es: ', Residuo
+3

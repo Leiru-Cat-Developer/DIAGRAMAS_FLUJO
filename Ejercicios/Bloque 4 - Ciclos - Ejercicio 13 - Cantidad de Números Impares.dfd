@@ -1,0 +1,68 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+Inicio
+1
+0
+3
+Fin
+1
+0
+8
+Contador
+1
+0
+4
+1
+30
+'Digite el inicio de la serie'
+5
+1
+6
+Inicio
+4
+1
+29
+'Digite el final de la serie'
+5
+1
+5
+Final
+8
+1
+1
+i
+1
+6
+Inicio
+1
+5
+Final
+1
+1
+1
+7
+0
+1
+11
+i mod 2 = 0
+6
+1
+8
+Contador
+12
+Contador + 1
+13
+13
+10
+4
+1
+76
+'La cantidad de números impares entre: ',Inicio,' y ',final,' es: ',Contador
+1

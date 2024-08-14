@@ -1,0 +1,47 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+Nombre
+2
+''
+4
+Edad
+1
+0
+4
+Sexo
+2
+''
+4
+1
+31
+'Digite su nombre, edad y sexo'
+5
+1
+16
+Nombre,Edad,Sexo
+7
+1
+1
+10
+Edad >= 18
+7
+1
+1
+18
+Sexo = 'Masculino'
+4
+1
+41
+'La persona es: ',Nombre,', fue agregada'
+13
+13
+13
+13
+1

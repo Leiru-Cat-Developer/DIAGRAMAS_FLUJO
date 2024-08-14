@@ -1,0 +1,46 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+Compra
+1
+0
+4
+1
+33
+'Digite la cantidad de su compra'
+5
+1
+6
+Compra
+7
+1
+1
+13
+Compra > 1000
+6
+2
+9
+Descuento
+11
+Compra*0.20
+11
+CompraTotal
+16
+Compra-Descuento
+4
+1
+59
+'SI TIENE descuento del 20%, su total es de: $',CompraTotal
+13
+4
+1
+54
+'NO TIENE descuento, su total a pagar es de: $',Compra
+13
+1

@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+Compra
+1
+0
+4
+1
+31
+'Digite el precio del producto'
+5
+1
+6
+Compra
+6
+2
+9
+Descuento
+11
+Compra*0.15
+11
+PrecioTotal
+16
+Compra-Descuento
+4
+1
+44
+'El precio total a pagar es: $ ',PrecioTotal
+1

@@ -1,0 +1,44 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+2
+N1
+1
+0
+2
+N2
+1
+0
+2
+N3
+1
+0
+4
+1
+18
+'Digite 3 números'
+5
+1
+8
+N1,N2,N3
+7
+1
+1
+12
+(N1*N2) = N3
+4
+1
+33
+'Se cumple ',N1,' * ',N2,' = ',N3
+13
+4
+1
+32
+'La multiplicación no se cumple'
+13
+1

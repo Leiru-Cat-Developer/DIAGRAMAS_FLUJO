@@ -1,0 +1,51 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+1
+6
+Tiempo
+1
+0
+4
+1
+29
+'Digite el tiempo en minutos'
+5
+1
+6
+Tiempo
+12
+1
+17
+ConvertidorTiempo
+1
+6
+Tiempo
+1
+2
+1
+17
+ConvertidorTiempo
+1
+6
+Tiempo
+0
+6
+2
+5
+Horas
+11
+Tiempo / 60
+7
+Minutos
+13
+Tiempo mod 60
+4
+1
+19
+Horas,' : ',Minutos
+3

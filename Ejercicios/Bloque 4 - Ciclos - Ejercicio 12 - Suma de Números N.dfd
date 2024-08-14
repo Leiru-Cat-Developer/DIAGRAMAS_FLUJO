@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+1
+N
+1
+0
+4
+Suma
+1
+0
+8
+Contador
+1
+0
+4
+1
+31
+'Digite el número de elementos'
+5
+1
+1
+N
+8
+1
+1
+i
+1
+1
+1
+1
+1
+N
+1
+1
+1
+7
+0
+1
+11
+i mod 2 = 0
+13
+6
+2
+4
+Suma
+8
+Suma + i
+8
+Contador
+12
+Contador + 1
+13
+10
+4
+1
+49
+'La suma es: ',Suma,' y los pares son: ',Contador
+1

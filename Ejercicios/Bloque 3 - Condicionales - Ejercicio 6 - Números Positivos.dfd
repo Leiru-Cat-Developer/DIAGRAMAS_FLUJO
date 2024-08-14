@@ -1,0 +1,70 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+4
+Num1
+1
+0
+4
+Num2
+1
+0
+4
+1
+18
+'Digite 2 números'
+5
+1
+9
+Num1,Num2
+7
+1
+1
+18
+Num1>0 and Num2>0 
+4
+1
+32
+'El número 1 es positivo: ',Num1
+4
+1
+32
+'El número 2 es positivo: ',Num2
+13
+7
+1
+1
+17
+Num1<0 and Num2<0
+4
+1
+36
+'El número 1 es menor a cero: ',Num1
+4
+1
+37
+'El número 2 es menor a cero: ',Num2 
+13
+7
+1
+1
+6
+Num1>0
+4
+1
+37
+'Solo el número 1 es positivo: ',Num1
+13
+4
+1
+37
+'Solo el número 2 es positivo: ',Num2
+13
+13
+13
+1

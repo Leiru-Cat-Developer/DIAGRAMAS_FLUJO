@@ -1,0 +1,76 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+9
+Elementos
+1
+0
+9
+Positivos
+1
+0
+9
+Negativos
+1
+0
+4
+1
+31
+'Digite el número de elementos'
+5
+1
+9
+Elementos
+8
+1
+1
+i
+1
+1
+1
+1
+9
+Elementos
+1
+1
+1
+7
+0
+1
+11
+i mod 2 = 0
+6
+1
+9
+Positivos
+13
+Positivos + i
+13
+6
+2
+1
+N
+8
+i * (-1)
+9
+Negativos
+13
+Negativos + N
+13
+6
+1
+9
+Resultado
+21
+Positivos + Negativos
+10
+4
+1
+29
+'El resultado es: ',Resultado
+1

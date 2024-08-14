@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+Num1
+1
+0
+4
+Num2
+1
+0
+4
+Num3
+1
+0
+4
+1
+18
+'Digite 3 números'
+5
+1
+14
+Num1,Num2,Num3
+7
+1
+1
+11
+Num1 > Num2
+7
+1
+1
+11
+Num1 > Num3
+4
+1
+29
+'El mayor número es el ',Num1
+13
+4
+1
+29
+'El mayor número es el ',Num3
+13
+13
+7
+1
+1
+11
+Num2 > Num3
+4
+1
+29
+'El mayor número es el ',Num2
+13
+4
+1
+29
+'El mayor número es el ',Num3
+13
+13
+1

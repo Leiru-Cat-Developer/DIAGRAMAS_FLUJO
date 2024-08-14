@@ -1,0 +1,66 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+3
+5
+Nota1
+1
+0
+5
+Nota2
+1
+0
+5
+Nota3
+1
+0
+4
+1
+36
+'Ingrese las tres notas del parcial'
+5
+1
+19
+Nota1, Nota2, Nota3
+12
+1
+8
+Promedio
+1
+19
+Nota1, Nota2, Nota3
+1
+2
+1
+8
+Promedio
+1
+19
+Nota1, Nota2, Nota3
+0
+6
+1
+8
+Promedio
+21
+(Nota1+Nota2+Nota3)/3
+7
+1
+1
+12
+Promedio > 6
+4
+1
+10
+'Aprobado'
+13
+4
+1
+16
+'Mejore la nota'
+13
+3

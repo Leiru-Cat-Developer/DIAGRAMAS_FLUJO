@@ -1,0 +1,18 @@
+		ARREGLO
+
+Un vector o arreglo almacena elementos del mismo tipo, de tal manera
+que podamos llamarlos para hacer uso de todos sus sub indices.
+
+	EJEMPLO:
+
+PelotasFutbol (tamaño de 6) en donde solo se pueden almacenar
+elementos del mismo tipo, en este ejemplo, son pelotas.
+
+Todos estos vectores se rellenan a partir de cero, es decir
+que el total de pocisiones sería N-1 y se comienza desde 0.
+
+Por ejemplo 6-1 = 5
+
+Y los números serán 0 1 2 3 4 5
+
+Conservando que sean 6 elementos, pues el 0 se contabiliza.

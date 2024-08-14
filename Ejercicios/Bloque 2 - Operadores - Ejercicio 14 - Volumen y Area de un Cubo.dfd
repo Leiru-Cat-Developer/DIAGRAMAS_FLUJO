@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+Arista
+1
+0
+4
+1
+27
+'Digite la altura del cubo'
+5
+1
+6
+Arista
+6
+2
+11
+VolumenCubo
+8
+Arista^3
+8
+AreaCubo
+12
+6*(Arista^2)
+4
+1
+44
+'El volumen del cubo es: ',VolumenCubo,' m3'
+4
+1
+38
+'El areá del cubo es: ',AreaCubo,' m2'
+1

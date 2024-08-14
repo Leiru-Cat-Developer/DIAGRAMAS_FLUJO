@@ -1,0 +1,77 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+10
+PrimeraInv
+1
+0
+10
+SegundaInv
+1
+0
+10
+TerceraInv
+1
+0
+4
+1
+52
+'Digite la cantidad invertida de la primera persona'
+5
+1
+10
+PrimeraInv
+4
+1
+52
+'Digite la cantidad invertida de la segunda persona'
+5
+1
+10
+SegundaInv
+4
+1
+52
+'Digite la cantidad invertida de la tercera persona'
+5
+1
+10
+TerceraInv
+6
+1
+5
+Total
+32
+PrimeraInv+SegundaInv+TerceraInv
+6
+3
+20
+PorcentajePersonaUno
+22
+(PrimeraInv*100)/Total
+20
+PorcentajePersonaDos
+22
+(SegundaInv*100)/Total
+21
+PorcentajePersonaTres
+22
+(TerceraInv*100)/Total
+4
+1
+64
+'El porcentaje al primer inversor es ',PorcentajePersonaUno,' %'
+4
+1
+65
+'El porcentaje al segundo inversor es ',PorcentajePersonaDos, '%'
+4
+1
+65
+'El porcentaje al tercer inversor es ',PorcentajePersonaTres, '%'
+1

@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+6
+Numero
+11
+Random(100)
+7
+1
+1
+12
+Numero >= 74
+6
+1
+17
+TotalSinDescuento
+1
+0
+4
+1
+45
+'Felicidades, ha ganado un descuento del 20%'
+4
+1
+30
+'Digite el total de su compra'
+5
+1
+17
+TotalSinDescuento
+6
+2
+9
+Descuento
+22
+TotalSinDescuento*0.20
+17
+TotalConDescuento
+29
+TotalSinDescuento - Descuento
+4
+1
+81
+'Su descuento fue de: $',Descuento,' su total a pagar es de: $',TotalConDescuento
+13
+6
+1
+17
+TotalSinDescuento
+1
+0
+4
+1
+44
+'Felicidades ha ganado un descuento del 10%'
+4
+1
+30
+'Digite el total de su compra'
+5
+1
+17
+TotalSinDescuento
+6
+2
+9
+Descuento
+22
+TotalSinDescuento*0.10
+17
+TotalConDescuento
+27
+TotalSinDescuento-Descuento
+4
+1
+81
+'Su descuento fue de: $',Descuento,' su total a pagar es de: $',TotalConDescuento
+13
+1

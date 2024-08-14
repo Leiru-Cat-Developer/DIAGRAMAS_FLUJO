@@ -1,0 +1,67 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+2
+9
+NumeroUno
+1
+0
+9
+NumeroDos
+1
+0
+4
+1
+20
+'Digite dos números'
+5
+1
+20
+NumeroUno, NumeroDos
+12
+1
+12
+Comprobacion
+1
+20
+NumeroUno, NumeroDos
+1
+2
+1
+12
+Comprobacion
+1
+20
+NumeroUno, NumeroDos
+0
+7
+1
+1
+21
+NumeroUno > NumeroDos
+4
+1
+38
+NumeroUno, ' es mayor que ', NumeroDos
+13
+7
+1
+1
+21
+NumeroDos > NumeroUno
+4
+1
+38
+NumeroDos, ' es mayor que ', NumeroUno
+13
+4
+1
+25
+'Los números son iguales'
+13
+13
+3

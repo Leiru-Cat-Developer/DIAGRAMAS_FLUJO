@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+PI
+6
+3.1416
+5
+Radio
+1
+0
+4
+1
+29
+'Digite el radio del circulo'
+5
+1
+5
+Radio
+6
+1
+4
+Long
+10
+2*PI*Radio
+4
+1
+35
+'La longitud del circulo es: ',Long
+1

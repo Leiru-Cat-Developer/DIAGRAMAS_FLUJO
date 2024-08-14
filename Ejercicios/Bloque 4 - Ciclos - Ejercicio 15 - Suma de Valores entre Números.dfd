@@ -1,0 +1,64 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+6
+Inicio
+1
+0
+3
+Fin
+1
+0
+4
+Suma
+1
+0
+4
+1
+39
+'Digite el inicio y el fin de la serie'
+5
+1
+10
+Inicio,Fin
+7
+0
+1
+12
+Inicio > Fin
+8
+1
+1
+i
+1
+6
+Inicio
+1
+3
+Fin
+1
+1
+1
+6
+1
+4
+Suma
+8
+Suma + i
+10
+4
+1
+61
+'La suma de los números entre ',Inicio,' y ',Fin,' es: ',Suma
+13
+4
+1
+46
+'Los valores están acomodados incorrectamente'
+13
+1

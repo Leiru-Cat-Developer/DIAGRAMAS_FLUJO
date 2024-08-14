@@ -1,0 +1,55 @@
+			OPERADORES
+
+Antes de comenzar a resolver cualquier tipo de problema debemos
+analizar el argumento, como en el primer ejercicio de este
+curso, nos damos cuenta que tenemos datos de entrada y de salida.
+
+Si no lo recuerdas el primer ejercicio nos dice:
+
+*Pedir dos números al usuario y sumarlos, restarlos, multiplicarlos y dividirlos,
+y mostrarlos en pantalla*
+
+
+Tenemos que:
+
+Datos de entrada:	2 números
+
+
+Datos de salida:	Suma, Resta, Multiplicación y División
+
+
+
+Como en el ejemplo del ejercicio anterior debemos analizar detenidamente el argumento
+y pensar de que manera podemos resolverlo con los datos que nos dan.
+
+
+
+Los operadores de asignación también nos sirven para resolver operaciones
+y guardar los resultados en variables nuevas, pero tambien podemos hacer la
+operación directa en la impresión en pantalla si es que ya no vamos a ocupar
+las variables.
+
+Los operadores más básicos que podemos conocer son:
+
+	+
+	-
+	*
+	/
+
+Que están de más explicarlos por la obviedad.	
+	
+
+Después están los operadores que deciden que operación es la que se realizara primero,
+con esto me refiero a los parentesis en las operaciones, el programa ya tiene implantado
+que operaciones se realizan primero segun las matemáticas, pero es más seguro si marcamos
+con parentesis que operación queremos que se realice primero.
+	
+
+PARA SACAR LA RAÍZ CUADRADA LA SACAMOS CON EL COMANDO:		-> sqrt(operaciones)
+
+Este comando se utiliza en la mayoria de lenguajes de programación.
+
+
+PARA ELEVAR UN NUMERO AL CUADRADO LO HACEMOS DE LA SIGUIENTE MANERA:		-> variable^2
+
+Se puede colocar cualquier número en su lugar de la variable.

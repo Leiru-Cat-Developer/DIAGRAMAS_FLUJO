@@ -1,0 +1,103 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+7
+Compras
+1
+0
+4
+Bola
+9
+random(5)
+4
+1
+33
+'Digite el el total de su compra'
+5
+1
+7
+Compras
+7
+1
+1
+8
+Bola = 1
+4
+1
+48
+'BOLA BLANCA, tu total a pagar es de: $',Compras
+13
+7
+1
+1
+8
+Bola = 2
+6
+2
+9
+Descuento
+12
+Compras*0.10
+5
+Total
+17
+Compras-Descuento
+4
+1
+46
+'BOLA VERDE 10%, tu total a pagar es: $',Total
+13
+7
+1
+1
+8
+Bola = 3
+6
+2
+9
+Descuento
+12
+Compras*0.25
+5
+Total
+17
+Compras-Descuento
+4
+1
+49
+'BOLA AMARILLA 25%, tu total a pagar es: $',Total
+13
+7
+1
+1
+8
+Bola = 4
+6
+2
+9
+Descuento
+12
+Compras*0.50
+5
+Total
+17
+Compras-Descuento
+4
+1
+45
+'BOLA AZUL 50%, tu total a pagar es: $',Total
+13
+4
+1
+34
+'¡¡¡ TODA TU COMPRA ES GRATIS !!!'
+13
+13
+13
+13
+1

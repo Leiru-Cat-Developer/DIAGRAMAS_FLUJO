@@ -1,0 +1,84 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+12
+1
+5
+Jugar
+0
+1
+2
+1
+5
+Jugar
+0
+0
+6
+3
+6
+Numero
+12
+random (100)
+7
+Intento
+1
+0
+1
+X
+1
+0
+4
+1
+18
+'Digite un número'
+9
+1
+5
+X = 0
+6
+1
+7
+Intento
+11
+Intento + 1
+5
+1
+5
+Valor
+7
+1
+1
+14
+Valor = Numero
+6
+1
+1
+X
+1
+1
+13
+7
+1
+1
+14
+Valor < Numero
+4
+1
+19
+'Valor muy pequeño'
+13
+4
+1
+18
+'Valor muy grande'
+13
+13
+11
+4
+1
+38
+'Adivinaste en: ', Intento,' intentos'
+3

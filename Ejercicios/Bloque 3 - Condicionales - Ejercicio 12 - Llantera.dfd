@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+7
+Llantas
+1
+0
+4
+1
+40
+'Digite el número de llantas que compró'
+5
+1
+7
+Llantas
+7
+1
+1
+12
+Llantas >= 5
+6
+1
+6
+Compra
+11
+Llantas*700
+4
+1
+89
+'Cada llanta cuesta $700 a partir de 5 llantas, así que su total a pagar es de: $',Compra
+13
+6
+1
+6
+Compra
+11
+Llantas*800
+4
+1
+98
+'Cada llanta cuesta $800 a partir de menos de 4 llantas, así que su total a pagar es de: $',Compra
+13
+1

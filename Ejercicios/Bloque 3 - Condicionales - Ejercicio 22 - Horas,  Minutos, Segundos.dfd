@@ -1,0 +1,102 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+5
+Horas
+1
+0
+7
+Minutos
+1
+0
+8
+Segundos
+1
+0
+4
+1
+18
+'Digite las horas'
+5
+1
+5
+Horas
+4
+1
+20
+'Digite los minutos'
+5
+1
+7
+Minutos
+4
+1
+21
+'Digite los segundos'
+5
+1
+8
+Segundos
+6
+1
+8
+Segundos
+12
+Segundos + 1
+7
+1
+1
+13
+Segundos > 59
+6
+2
+8
+Segundos
+1
+0
+7
+Minutos
+11
+Minutos + 1
+13
+13
+7
+1
+1
+12
+Minutos > 59
+6
+2
+7
+Minutos
+1
+0
+5
+Horas
+9
+Horas + 1
+13
+13
+7
+1
+1
+10
+Horas > 23
+6
+1
+5
+Horas
+1
+0
+13
+13
+4
+1
+49
+'La hora es: ',Horas,' : ',Minutos,' : ',Segundos
+1

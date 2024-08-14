@@ -1,0 +1,63 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+3
+9
+NumeroUno
+1
+0
+9
+NumeroDos
+1
+0
+10
+NumeroTres
+1
+0
+4
+1
+21
+'Digite tres números'
+5
+1
+32
+NumeroUno, NumeroDos, NumeroTres
+12
+1
+11
+Operaciones
+1
+32
+NumeroUno, NumeroDos, NumeroTres
+1
+2
+1
+11
+Operaciones
+1
+32
+NumeroUno, NumeroDos, NumeroTres
+0
+6
+2
+4
+Suma
+30
+NumeroUno+NumeroDos+NumeroTres
+14
+Multiplicacion
+30
+NumeroUno*NumeroDos*NumeroTres
+4
+1
+20
+'La suma es: ', Suma
+4
+1
+40
+'La multiplicación es: ', Multiplicacion
+3

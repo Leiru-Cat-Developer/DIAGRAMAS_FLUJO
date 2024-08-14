@@ -1,0 +1,12 @@
+			DFD
+
+Los tipos de datos que maneja este programa son:
+
+INT		->	Números Enteros	
+FLOAT		->	Números Reales
+STRING		->	Textos con espacios
+CHAR		->	Solo una letra
+
+
+Cuando queramos guardar caracteres de tipo CHAR o STRING debemos
+ingresarlo en la consola con 'Palabra' por decir un ejemplo.

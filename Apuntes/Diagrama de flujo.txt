@@ -1,0 +1,15 @@
+		DIAGRAMA DE FLUJO
+
+¿Qué es?: Es la representación gráfica del algoritmo
+	  o proceso.
+
+
+Ventajas:
+
+	- Favorecen la comprensión del proceso al mostrarlo
+	  como un dibujo, el cerebro lo entiende mejor.
+	
+	- Permiten identificar mejoras y problemas en el
+	  algoritmo.
+
+RECORDAR: *UNA IMAGÉN VALE MÁS QUE MIL PALABRAS

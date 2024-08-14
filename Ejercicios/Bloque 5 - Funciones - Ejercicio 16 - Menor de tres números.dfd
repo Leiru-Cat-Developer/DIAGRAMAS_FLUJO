@@ -1,0 +1,82 @@
+ Dfd (c)
+1
+1
+2
+0
+0
+6
+3
+7
+Numero1
+1
+0
+7
+Numero2
+1
+0
+7
+Numero3
+1
+0
+4
+1
+21
+'Digite tres números'
+5
+1
+25
+Numero1, Numero2, Numero3
+12
+1
+5
+Menor
+1
+25
+Numero1, Numero2, Numero3
+1
+2
+1
+5
+Menor
+1
+25
+Numero1, Numero2, Numero3
+0
+7
+0
+1
+17
+Numero1 > Numero2
+7
+0
+1
+17
+Numero1 > Numero3
+4
+1
+24
+'El menor es: ', Numero1
+13
+4
+1
+24
+'El menor es: ', Numero3
+13
+13
+7
+0
+1
+17
+Numero2 > Numero3
+4
+1
+24
+'El menor es: ', Numero2
+13
+4
+1
+24
+'El menor es: ', Numero3
+13
+13
+3

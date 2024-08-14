@@ -1,0 +1,39 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+Radio
+1
+0
+4
+1
+30
+'Digite el radio de la esfera'
+5
+1
+5
+Radio
+6
+2
+10
+AreaEsfera
+18
+4*3.1416*(Radio^2)
+13
+VolumenEsfera
+24
+(4/3)*(3.1416*(Radio^2))
+4
+1
+44
+'El areá de la esfrea es: ',AreaEsfera,' m2'
+4
+1
+50
+'El volumen de la esfrea es: ',VolumenEsfera,' m3'
+1

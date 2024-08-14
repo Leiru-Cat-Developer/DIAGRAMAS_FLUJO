@@ -1,0 +1,30 @@
+			INTRODUCCIÓN
+
+¿Qué es un algoritmo?:	Un conjunto de pasos o instrucciones
+			ordenada y finita que conducen a la
+			solución de un problema.
+
+
+Por ejemplo:
+
+		ALGORITMO PARA LAVARSE LAS MANOS
+
+1. Abrir el grifo del agua
+2. Aplicarse jabón
+3. Enjuagarse las manos
+4. Cerrar el grifo del agua
+5. Secarse las manos
+
+
+*Un algorimo debe se ordenada para poder realizarse correctamente*
+
+Por ejemplo:
+
+		ALGORITMO PARA CAMBIAR LA LLANTA DE UN AUTO
+
+1. Levantar el auto con el gato hidraulico
+2. Soltar y sacar los pernos de la llanta
+3. Quitar la llanta
+3. Colocar la llanta de repuesto
+5. Colocar y apretar los pernos
+6. Bajar el gato hidraulico

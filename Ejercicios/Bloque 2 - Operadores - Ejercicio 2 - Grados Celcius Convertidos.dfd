@@ -1,0 +1,31 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+7
+Celcius
+1
+0
+4
+1
+38
+'Digite la cantidad de grados Celcius'
+5
+1
+7
+Celcius
+6
+1
+10
+Fahrenheit
+18
+((9/5)*Celcius)+32
+4
+1
+72
+'Los ',Celcius,' grados Celcius a Fahrenheit son: ',Fahrenheit,' grados'
+1

@@ -1,0 +1,48 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+5
+Horas
+1
+0
+4
+1
+42
+'Digite las horas trabajadas del empleado'
+5
+1
+5
+Horas
+7
+1
+1
+9
+Horas<=40
+6
+1
+4
+Pago
+8
+Horas*16
+4
+1
+72
+'El pago del trabajador es de $16 por hora, su pago total es de: $',Pago
+13
+6
+1
+9
+PagoExtra
+19
+((Horas-40)*20)+640
+4
+1
+132
+'El pago del trabajador es de $20 por hora extra,  más su pago inicial de 40 horas que es de $640, su pago total es de: $',PagoExtra
+13
+1

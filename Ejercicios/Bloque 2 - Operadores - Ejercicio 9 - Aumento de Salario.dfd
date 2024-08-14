@@ -1,0 +1,35 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+1
+7
+Salario
+1
+0
+4
+1
+19
+'Digite su salario'
+5
+1
+7
+Salario
+6
+2
+7
+Aumento
+12
+Salario*0.25
+12
+NuevoSalario
+15
+Salario+Aumento
+4
+1
+38
+'Su nuevo salario es: $ ',NuevoSalario
+1

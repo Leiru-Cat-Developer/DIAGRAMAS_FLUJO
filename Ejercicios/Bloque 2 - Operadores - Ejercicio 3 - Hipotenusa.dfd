@@ -1,0 +1,43 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+2
+2
+CA
+1
+0
+2
+CO
+1
+0
+4
+1
+38
+'Digite el valor del cateto adyacente'
+5
+1
+2
+CA
+4
+1
+36
+'Digite el valor del cateto opuesto'
+5
+1
+2
+CO
+6
+1
+3
+HIP
+21
+sqrt((CA^2) + (CO^2))
+4
+1
+36
+'El valor de la hipotenusa es: ',HIP
+1

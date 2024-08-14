@@ -1,0 +1,50 @@
+ Dfd (c)
+1
+1
+1
+0
+0
+6
+3
+4
+Cal1
+1
+0
+4
+Cal2
+1
+0
+4
+Cal3
+1
+0
+4
+1
+40
+'Digite las 3 calificaciones del alumno'
+5
+1
+14
+Cal1,Cal2,Cal3
+6
+1
+8
+Promedio
+18
+(Cal1+Cal2+Cal3)/3
+7
+1
+1
+13
+Promedio >= 6
+4
+1
+48
+'El alumno ha aprobado la materia con ',Promedio
+13
+4
+1
+49
+'El alumno ha reprovado la materia con ',Promedio
+13
+1
